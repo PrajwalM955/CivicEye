@@ -1,0 +1,36 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Android
+android/.gradle/
+android/app/build/
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Lock files
+*.lock
+# IDE files
+.idea/
+.metadata
+*.iml
+
+# Analysis files
+analyze_output.txt
+
+# Flutter
+.flutter-plugins-dependencies
+# Firebase sensitive files
+android/app/google-services.json
+lib/firebase_options.dart
+firebase.json
