@@ -71,6 +71,24 @@ flutterfire configure
 ### 6. Run the App
 flutter run
 
+
+## 📸 Screenshots
+
+<div align="center">
+
+<img src="assets/screenshots/login.png" width="250"/>
+<img src="assets/screenshots/civic_dashboard.png" width="250"/>
+<img src="assets/screenshots/admin_dashboard.png" width="250"/>
+
+<img src="assets/screenshots/report_issue.png" width="250"/>
+<img src="assets/screenshots/my_civic_contribution.png" width="250"/>
+<img src="assets/screenshots/maps_with_pointers_and_heat_zones.png" width="250"/>
+
+<img src="assets/screenshots/admin_dashboard_crud_operations.png" width="250"/>
+<img src="assets/screenshots/image_on_browser.png" width="250"/>
+
+</div>
+
 👨‍💻 Developed By
 
 ### Prajwal M
